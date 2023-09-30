@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+body {
+    background-image: url("lib.jpg");
+  }
+  
+.h1{
+    text-align: center;
+    color: aliceblue;
+    margin: 120px;
+}
+.navbar a{
+    text-decoration: none;
+    color:white;
+    font-family: cursive;
+}
+.navbar{
+    background-color: black;
+    text-align: end;
+    padding: 20px;
+}
+.search{
+    text-align: center;
+    color: aliceblue;
+   
+}
+input{
+    border: 5px solid black;
+    border-radius:2px ;
+}
+.button{
+    border: 5px solid black;
+    border-radius: px;
+}
